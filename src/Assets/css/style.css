@@ -1,0 +1,53 @@
+header{
+    text-align: center;
+    display:flex;
+    justify-content: center ;
+}
+
+.form-control {
+    align-self: center;
+    width: 64%;
+}
+
+.divfluid{
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.jumbotronfluid{
+    background-image: url('https://images.unsplash.com/photo-1508873696983-2dfd5898f08b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height: 700px;
+    width: 1000px;
+    margin:10px;
+    margin-top:30px;
+    margin-bottom: 0;
+    text-align: center;
+    border: 1px solid rgb(24, 67, 17);
+}
+
+.textStyle{
+    text-shadow: 1px 1px black;
+}
+.imgFluid{
+    border: 1px solid rgb(24, 67, 17);
+    border-radius: 5px;
+}
+.footerFluid{
+    text-align: center;
+    background-image: url('https://i.imgur.com/79s4IVe.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-position-y: 10%;
+    background-size: cover;
+    margin: 10px;
+    margin-bottom: 1px;
+    height: 200px;
+}
+#divFooter{
+    padding: 10px;
+}
