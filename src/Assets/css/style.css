@@ -34,8 +34,14 @@ header{
     text-shadow: 1px 1px black;
 }
 .imgFluid{
+    width:1000px;
+    height:700px;
+    margin: 10px;
+    margin-top: 20px;
+    max-width: 100%;
+    height: auto;
     border: 1px solid rgb(24, 67, 17);
-    border-radius: 5px;
+    border-radius:5px;
 }
 .footerFluid{
     text-align: center;
